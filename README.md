@@ -35,18 +35,6 @@
 ### 🧰 Security Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux" width="50" title="Linux"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=kali" width="50" title="Kali Linux"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ubuntu" width="50" title="Ubuntu"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nmap" width="50" title="Nmap"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=wireshark" width="50" title="Wireshark"/>
-</p>
-
-<p align="center">
   <b>Linux</b> &nbsp; • &nbsp;
   <b>Kali Linux</b> &nbsp; • &nbsp;
   <b>Ubuntu</b> &nbsp; • &nbsp;
@@ -61,20 +49,6 @@
 ### 🌐 Web Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" width="50" title="HTML5"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="50" title="CSS3"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript" width="50" title="JavaScript"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50" title="Node.js"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" width="50" title="Express.js"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50" title="MongoDB"/>
-</p>
-
-<p align="center">
   HTML5 &nbsp; • &nbsp;
   CSS3 &nbsp; • &nbsp;
   JavaScript &nbsp; • &nbsp;
@@ -84,14 +58,6 @@
 </p>
 
 ### 🛠️ Development Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git" width="50" title="Git"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="50" title="GitHub"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="50" title="VS Code"/>
-</p>
 
 <p align="center">
   Git &nbsp; • &nbsp; GitHub &nbsp; • &nbsp; VS Code
