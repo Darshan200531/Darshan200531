@@ -30,23 +30,34 @@
 
 ### 🔍 Security & Networking
 
-* Network Security Fundamentals
-* Security Monitoring & Log Analysis
-* Intrusion Detection Systems (IDS)
-* File Integrity Monitoring
-* Authentication & Access Monitoring
-* Basic Threat Detection
-* Vulnerability Assessment
-* Web Security Fundamentals
+| Area                 | Skills                                                                 |
+| -------------------- | ---------------------------------------------------------------------- |
+| **Security**         | Security Monitoring · Log Analysis · IDS · File Integrity Monitoring   |
+| **Detection**        | Rule-Based Detection · Brute-Force Detection · Threat Detection        |
+| **Networking**       | TCP/IP · OSI Model · Network Security · Network Troubleshooting        |
+| **Linux Security**   | SSH · FTP · SMTP · Authentication Monitoring                           |
+| **Security Testing** | Vulnerability Assessment · Ethical Hacking · Web Security Fundamentals |
 
 ### 🧰 Security Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Nmap-004065?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux" width="50" title="Linux"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kali" width="50" title="Kali Linux"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ubuntu" width="50" title="Ubuntu"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nmap" width="50" title="Nmap"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=wireshark" width="50" title="Wireshark"/>
+</p>
+
+<p align="center">
+  <b>Linux</b> &nbsp; • &nbsp;
+  <b>Kali Linux</b> &nbsp; • &nbsp;
+  <b>Ubuntu</b> &nbsp; • &nbsp;
+  <b>Nmap</b> &nbsp; • &nbsp;
+  <b>Wireshark</b>
 </p>
 
 ---
@@ -55,27 +66,43 @@
 
 ### 🌐 Web Development
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" width="50" title="HTML5"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="50" title="CSS3"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" width="50" title="JavaScript"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" title="Node.js"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="50" title="Express.js"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" title="MongoDB"/>
 </p>
 
-### 🗄️ Database
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<p align="center">
+  HTML5 &nbsp; • &nbsp;
+  CSS3 &nbsp; • &nbsp;
+  JavaScript &nbsp; • &nbsp;
+  Node.js &nbsp; • &nbsp;
+  Express.js &nbsp; • &nbsp;
+  MongoDB
 </p>
 
 ### 🛠️ Development Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" width="50" title="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="50" title="GitHub"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" title="VS Code"/>
 </p>
+
+<p align="center">
+  Git &nbsp; • &nbsp; GitHub &nbsp; • &nbsp; VS Code
+</p>
+
 
 ---
 
