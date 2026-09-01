@@ -205,18 +205,6 @@ I'm actively interested in opportunities related to:
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshan200531&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan200531&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan200531&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
-
----
 
 ## 🤝 Let's Connect
 
